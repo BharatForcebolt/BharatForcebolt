@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bharat
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently full-stack developer at ForceBolt
-- 💞️ I’m looking to collaborate on any project in Angular
+- 🌱 I’m currently a full-stack developer at ForceBolt
+- 💞️ I’m looking to collaborate on any project in Angular/React
 - 📫 How to reach me @BharatForcebolt
 
 <!---
